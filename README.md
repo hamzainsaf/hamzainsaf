@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Hamza
-I'm a biomedical engineering student with a strong interest in using technology to improve healthcare and promote human well-being. I'm currently working on several projects related to medical devices and biosensors, and I'm always looking for new opportunities to learn and grow as an engineer.
+I'm a Biomedical engineering student with a strong interest in using technology to improve healthcare and promote human well-being. I'm currently working on several projects related to medical devices and biosensors, and I'm always looking for new opportunities to learn and grow as an engineer.
 
 Skills:  / C#/ MatLab/R/ Python / Fusion 360/SQL
 
