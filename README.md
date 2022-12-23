@@ -3,7 +3,7 @@ I'm a Biomedical engineering student with a strong interest in using technology 
 
 Skills:  / C#/ MatLab/R/ Python / Fusion 360/SQL/La Tex
 
-- 🔭 I’m currently working on Skin Segmentation 
+- 🔭 I’m currently working on Skin Segmentation using python, Order Management Application C#
 - 🌱 I’m currently learning Biomedical Signal Processing, 3D design, Machine learning 
 
 
