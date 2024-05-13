@@ -9,9 +9,6 @@ I am passionate about using technology to enhance healthcare outcomes and promot
 - **Tools and Technologies**: MATLAB, SQL, Fusion 360, LaTeX
 - **Areas of Learning**: Machine Learning, Biomedical Signal Processing, 3D Design
 
-### What I'm Working On
-- 🔭 Developing a **Skin Segmentation System** using Python.
-- 🔭 Building an **Order Management Application** in C#.
 
 ### Currently Learning
 - 🌱 Advancing my knowledge in **Biomedical Signal Processing** and **3D Design**.
