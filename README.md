@@ -38,6 +38,7 @@ I'm a biomedical engineer passionate about leveraging AI and computational metho
 
 ### 💡 Research & Project Highlights
 
+- **Chromatin Organization in Neuroendocrine Lung Cancer**: Quantitative analysis using PyRadiomics and StarDist for cell nuclei segmentation and chromatin texture feature extraction
 - **LLM Analysis for Biomedical CV**: Comparative study of LLM-generated computer vision algorithms with custom scoring framework
 - **FISH Probe Quantification**: Created pipeline using YOLO and StarDist for nuclei segmentation with PyRadiomics feature extraction for cancer classification
 - **CNN-Based Malaria Detection**: Developed a classifier achieving >95% accuracy with optimized preprocessing pipeline
