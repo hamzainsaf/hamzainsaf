@@ -6,7 +6,7 @@ I'm a biomedical engineer specializing in computer vision for medical imaging, c
 
 ###  Education
 
-**M2 SIGMA — EEH Major (Electromagnétisme, Electronique, Hyperfréquences)**
+**M2 SIGMA — EEH Major**
 *Grenoble INP – Phelma, Université Grenoble Alpes* | Sep 2026 – Jun 2027
 PERSYVAL LabEx excellence scholarship recipient
 
@@ -60,7 +60,7 @@ PERSYVAL LabEx excellence scholarship recipient
 - ISO 13485:2016 – Quality Management Systems for Medical Devices (Jul 2025)
 - MLOps Zoomcamp – DataTalksClub (Jul 2026)
 
-### 📫 Let's Connect
+###  Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamza-insaf/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/mhamzainsaf)
