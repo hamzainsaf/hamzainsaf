@@ -44,8 +44,7 @@ PERSYVAL LabEx excellence scholarship recipient
 
 ### Research & Project Highlights
 
-- **SAR-Based Dark Vessel Detection**: Built a three-stage pipeline — CFAR detection, learned discriminator for false-alarm filtering, and Bayesian AIS fusion — to identify vessels in SAR imagery not broadcasting AIS signals
-- **ColSegNet (Lynred Infrared Data Challenge — 1st place, 91.016/100)**: U-Net variant with asymmetric 1×15 kernels and column-wise self-attention for infrared image destriping; involved FPN synthesis, blink-aware ground truth generation, and masked L1 loss
+- **ColSegNet (Lynred Infrared Data Challenge )**: U-Net variant with asymmetric 1×15 kernels and column-wise self-attention for infrared image destriping; involved FPN synthesis, blink-aware ground truth generation, and masked L1 loss
 - **Chromatin Organization in Neuroendocrine Lung Cancer**: Quantitative analysis using PyRadiomics and StarDist for cell nuclei segmentation and chromatin texture feature extraction
 - **LLM Analysis for Biomedical CV**: Comparative study of LLM-generated computer vision algorithms with a custom scoring framework
 - **FISH Probe Quantification**: Pipeline using YOLO and StarDist for nuclei segmentation with PyRadiomics feature extraction for cancer classification
